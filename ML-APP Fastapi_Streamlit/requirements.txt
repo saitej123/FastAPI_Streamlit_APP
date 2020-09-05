@@ -1,0 +1,6 @@
+pycaret==2.1
+joblib
+streamlit
+cloudpickle
+pickleshare
+Markdown 
